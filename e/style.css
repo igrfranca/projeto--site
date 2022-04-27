@@ -4,9 +4,12 @@ font-size: 16px;
 }
 
 body{ 
-    background-color: rgb(rgb(0, 255, 34), rgb(17, 218, 17), rgb(60, 173, 126));
+    background-color: rgb(29, 55, 104);
 }
 
-main{ 
-    
+main{
+    background-color: azure; 
+    width: 500px;
+    margin: auto;
+        
 }
