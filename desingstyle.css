@@ -5,6 +5,7 @@
 
 body {
     background-color: rgb(88, 15, 141);
+    image-orientation: from-image;
 }
 
 main {
